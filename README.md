@@ -1,7 +1,7 @@
 Servicio Login Con PHP
 ==========
 
-```
+```php
 <?php
 
 header('Content-type: application/x-www-form-urlencoded');
